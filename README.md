@@ -52,5 +52,8 @@ In the State Information tab, users can get detailed statistics about one state.
 ### STEP 10 
 Choose the tab you want. In the state comparison tab, compare 2 states. You can choose different states and Industry type from the tab on the left and get competitive information and graphs
 
+## YouTube Usage Link
+https://www.youtube.com/watch?v=DcPzwsgEkDs
+
 
 
