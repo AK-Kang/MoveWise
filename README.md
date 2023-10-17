@@ -1,5 +1,8 @@
 # MoveWise
 
+## Course:
+95-888   Data-Focused Python
+
 ## Members:
 Anni Kang;              andrew id: annik
 
